@@ -1,1 +1,1 @@
-web: python lastver.py
+web: python3 lastver.py
